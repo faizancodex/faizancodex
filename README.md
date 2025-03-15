@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Faizan Khan
+## 🚀 Full-Stack Developer | AI Enthusiast | Problem Solver
 
-<!--
-**faizancodex/faizancodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack:
+- **Programming:** Python, JavaScript
+- **Web Development:** React.js, Node.js, Django
+- **Machine Learning:** NLP, Supervised & Unsupervised Learning
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, GitHub, VS Code, Jupyter
 
-Here are some ideas to get you started:
+### 🌟 Featured Projects:
+- 🏥 **Medicine Recommendation System** - AI-based system to suggest medicines.
+- 📝 **Personal Blog Website** - A blog platform using Django & MySQL.
+- 📂 **Content Management System (CMS)** - A dynamic CMS with HTML, CSS, and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats:
+![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizankhan&show_icons=true&theme=radical)
+
+🔗 **Connect with me:**
+[LinkedIn](https://linkedin.com/in/faizankhan) | [Portfolio](https://faizankhan.dev) | [Email](mailto:faizan@example.com)
