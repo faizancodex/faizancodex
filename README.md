@@ -1,20 +1,21 @@
 # 👋 Hi, I'm Faizan Khan
-## 🚀 Full-Stack Developer | AI Enthusiast | Problem Solver
+## 🚀 Python Full-Stack Developer | Problem Solver | Open-Source Contributor
 
 ### 🛠️ Tech Stack:
 - **Programming:** Python, JavaScript
-- **Web Development:** React.js, Node.js, Django
-- **Machine Learning:** NLP, Supervised & Unsupervised Learning
+- **Frontend:** React.js, HTML, CSS, Bootstrap
+- **Backend:** Django, Flask, Node.js, Express.js
 - **Databases:** MySQL, PostgreSQL
-- **Tools:** Git, GitHub, VS Code, Jupyter
+- **Version Control:** Git, GitHub
+- **Other Tools:** Docker, Redis, Nginx, AWS
 
-### 🌟 Featured Projects:
-- 🏥 **Medicine Recommendation System** - AI-based system to suggest medicines.
-- 📝 **Personal Blog Website** - A blog platform using Django & MySQL.
-- 📂 **Content Management System (CMS)** - A dynamic CMS with HTML, CSS, and JavaScript.
+### 📌 Featured Projects:
+- **📂 Content Management System (CMS)** – A scalable CMS using Django.
+- **📝 Personal Blog Website** – Blog platform with MySQL & Django.
+- **📊 Portfolio Website** – Showcasing projects & experience.
 
 ### 📊 GitHub Stats:
-![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizankhan&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizankhan&show_icons=true&theme=radical)
 
 🔗 **Connect with me:**
 [LinkedIn](https://linkedin.com/in/faizankhan) | [Portfolio](https://faizankhan.dev) | [Email](mailto:faizan@example.com)
