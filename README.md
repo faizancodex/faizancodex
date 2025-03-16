@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-I'm a **Python Full-Stack Developer** passionate about building scalable web applications and backend systems. I enjoy coding, problem-solving, and contributing to open-source projects.
+**Python Full-Stack Developer** passionate about building web applications. I enjoy coding, problem-solving, and contributing to open-source projects.
 
 - 🔭 Currently learning **to build web applications with Django and React.**
 - 🏗️ Currently working on **Wefyx, a blog uploading website.**  
@@ -24,7 +24,7 @@ I'm a **Python Full-Stack Developer** passionate about building scalable web app
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Languages and Tools:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -53,9 +53,9 @@ I'm a **Python Full-Stack Developer** passionate about building scalable web app
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizancodex&layout=compact&theme=radical)
-![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizancodex&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizancodex&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizancodex&layout=compact&theme=light)
+![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizancodex&show_icons=true&theme=light)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizancodex&theme=light)
 
 
 
@@ -65,9 +65,9 @@ I'm a **Python Full-Stack Developer** passionate about building scalable web app
 
 Let's collaborate and build something amazing! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-khan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/faizan_khan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://faizankhan.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-khan-84b640264/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FaizanKhan35077)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://faizan.icu)
 
 ---
 
