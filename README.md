@@ -1,4 +1,4 @@
-### Hi there, I'm [Faizan Khan](https://github.com/faizancodex) 👋
+### Hi there! I'm [Faizan Khan](https://github.com/faizancodex) 👋
 
 <p align="center">
 <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="300px">
@@ -53,9 +53,24 @@
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizancodex&layout=compact&theme=light)
-![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizancodex&show_icons=true&theme=light)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizancodex&theme=light)
+### 📊 GitHub Stats  
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=faizancodex&show_icons=true&theme=light" />
+    </td>
+    <td>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizancodex&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizancodex&layout=compact&theme=light&card_width=400" />
+    </td>
+  </tr>
+</table>
+
 
 
 
