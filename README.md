@@ -53,9 +53,9 @@ I'm a **Python Full-Stack Developer** passionate about building scalable web app
 
 ### 📊 GitHub Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizancodex&layout=compact&theme=radical)
 ![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizancodex&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizancodex&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizancodex&layout=compact&theme=radical)
 
 
 
