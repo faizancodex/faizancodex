@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td colspan="2">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizancodex&layout=compact&theme=light&card_width=380"/>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizancodex&layout=compact&theme=light"/>
     </td>
   </tr>
 </table>
