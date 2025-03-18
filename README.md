@@ -45,9 +45,9 @@
 
 ### 🔥 Featured Projects
 
-- 🚀 **[Medicine Recommendation System](https://github.com/FaizanKhan/med-recommend)** – AI-powered system for suggesting medicines.  
-- 📖 **[Personal Blog](https://github.com/FaizanKhan/blog-platform)** – A Django-based blogging platform with user authentication.
-- 🌍 **[Portfolio Website](https://faizankhan.dev)** – A modern portfolio showcasing my work and skills.
+- 🌍 **[Portfolio Website](https://faizan.icu)** – A modern portfolio showcasing my work and skills.
+- 🚀 **[Medicine Recommendation System](https://github.com/faizancodex)** – AI-powered system for suggesting medicines.  
+- 📖 **[Wefyx](https://github.com/FaizanKhan/blog-platform)** – A Django-based blogging platform with user authentication.
 
 ---
 
@@ -79,8 +79,8 @@
 Let's collaborate and build something amazing! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-khan-84b640264/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FaizanKhan35077)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://faizan.icu)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FaizanKhan35077)
 
 ---
 
