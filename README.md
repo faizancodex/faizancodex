@@ -94,4 +94,4 @@ Let's collaborate and build something amazing! 🚀
 
 ### ⚡ Fun Fact
 
-> "The best feeling? When the code runs perfectly on the first try! 😃
+> "The best feeling? When the code runs perfectly on the first try! 🎉🔥
