@@ -47,7 +47,7 @@
 
 - 🌍 **[Portfolio Website](https://faizan.icu)** – A modern portfolio showcasing my work and skills.
 - 🚀 **[Medicine Recommendation System](https://medicine-recommendation-system-w0cq.onrender.com/)** – AI-powered system for suggesting medicines.  
-- 📖 **[Wefyx(On Working)](https://https://github.com/faizancodex/wefyx-Blog-site)** – A Django-based blogging platform with user authentication.
+- 📖 **[Wefyx](https://github.com/faizancodex/wefyx-Blog-site)**(On Working) – A Django-based blogging platform with user authentication.
 
 ---
 
