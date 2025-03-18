@@ -20,7 +20,6 @@
 - 💬 Ask me about **Python, Django, React.js, database, or anything tech-related**
 - 🏗️ Interested in **Open Source contributions and collaborating on exciting projects.**  
 - 📫 Reach me at **faizank9058@gmail.com**
-- ⚡ **Fun fact:** *The best feeling? When the code runs perfectly on the first try!* 🎉🔥
 
 ---
 
@@ -95,4 +94,4 @@ Let's collaborate and build something amazing! 🚀
 
 ### ⚡ Fun Fact
 
-> "First, solve the problem. Then, write the code." - John Johnson 😃
+> "The best feeling? When the code runs perfectly on the first try! 😃
